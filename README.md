@@ -33,7 +33,7 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaminiunam&label=Profile%20views&color=0e75b6&style=flat" alt="iaminiunam" /> </p>
 
-- 🌍  I'm currently based in **Accra, Ghana**
+- 🌍 I'm currently based in **Accra, Ghana**
 - 📫 Reach me at **iniunamid@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GwDcNfjFnB6C9Oem79F0JyNl3Y0TO6I6/view)
 - 🔭 I’m currently working on [Donation App for Charity Organizations](https://github.com/chisom-dev20/Uplift)
