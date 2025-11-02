@@ -1,16 +1,75 @@
-## Hi there 👋
+## 💫 About Me:
 
-<!--
-**iamIniunam/iamIniunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-Here are some ideas to get you started:
+Hi there! I'm **Iniunam, Idorenyin**<br>
+**********************************<br><br>
+Mobile App Developer | Flutter & Dart Enthusiast | Computer Engineering Student<br>
+***************************************************************************************<br><br>
+I’m a Computer Engineering student at the **Accra Institute of Technology (AIT)** passionate about building clean, functional, and visually appealing **mobile apps**. I specialize in transforming UI/UX designs into flawless, production-ready applications using **Flutter** and **Dart**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   </td>
+   <td valign="top" width="40%" align="center">
+
+```
+
+
+██╗██████╗ ███████╗██╗   ██╗
+██║██╔══██╗██╔════╝██║   ██║
+██║██║  ██║█████╗  ██║   ██║
+██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║██████╔╝███████╗ ╚████╔╝ 
+╚═╝╚═════╝ ╚══════╝  ╚═══╝
+
+             
+```
+
+   </td>
+  </tr>
+</table>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iaminiunam&label=Profile%20views&color=0e75b6&style=flat" alt="iaminiunam" /> </p>
+
+- 🌍  I'm currently based in **Accra, Ghana**
+- 📫 Reach me at **iniunamid@gmail.com**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GwDcNfjFnB6C9Oem79F0JyNl3Y0TO6I6/view)
+- 🔭 I’m currently working on [Donation App for Charity Organizations](https://github.com/chisom-dev20/Uplift)
+- 🤝 I’m looking for help with [Implementing face verification in mobile apps](https://github.com/iamIniunam/CheckIn-App)
+- 🌱 I’m currently learning **Advanced Flutter architecture, PHP backend integration, and MySQL optimization**
+- 👯 I’m looking to collaborate on **Flutter mobile app projects and innovative student solutions**
+- ⚡ Fun fact **I think I am funny**<br><br>
+
+## 🌐 Socials:
+<p align="left">
+<a href="https://x.com/iaminiunam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaminiunam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idorenyin-iniunam-125151289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idorenyin-iniunam-125151289" height="30" width="40" /></a>
+<a href="https://instagram.com/iaminiunam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaminiunam" height="30" width="40" /></a>
+</p><br>
+
+# 💻 Tech Stack:
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=iaminiunam&theme=algolia&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaminiunam&show_icons=true&locale=en&layout=compact" alt="iaminiunam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminiunam&show_icons=true&locale=en" alt="iaminiunam" /></p><br> -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iaminiunam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)<br/><br/>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaminiunam" alt="iaminiunam" /></a> </p><br> -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iaminiunam&limit=5&theme=algolia&combine_all_yearly_contributions=true)
