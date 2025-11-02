@@ -63,13 +63,9 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 ![](https://github-readme-stats.vercel.app/api?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=iaminiunam&theme=algolia&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaminiunam&show_icons=true&locale=en&layout=compact" alt="iaminiunam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaminiunam&show_icons=true&locale=en" alt="iaminiunam" /></p><br> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iaminiunam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)<br/><br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaminiunam" alt="iaminiunam" /></a> </p><br> -->
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iaminiunam&limit=5&theme=algolia&combine_all_yearly_contributions=true)
