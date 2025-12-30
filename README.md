@@ -35,7 +35,7 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 
 - 🌍 I'm currently based in **Accra, Ghana**
 - 📫 Reach me at **iniunamid@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1o9g4GK4cjXbUP-nmWwt8B53nsDmP7eBz/view)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
 - 🌱 I’m currently learning **Advanced Flutter architecture, Go backend integration, and MySQL optimization**
 - 👯 I’m looking to collaborate on **Flutter mobile app projects and innovative student solutions**
 - ⚡ Fun fact **I think I am funny**<br><br>
