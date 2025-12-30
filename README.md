@@ -35,10 +35,10 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 
 - 🌍 I'm currently based in **Accra, Ghana**
 - 📫 Reach me at **iniunamid@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GwDcNfjFnB6C9Oem79F0JyNl3Y0TO6I6/view)
-- 🔭 I’m currently working on [Donation App for Charity Organizations](https://github.com/chisom-dev20/Uplift)
-- 🤝 I’m looking for help with [Implementing face verification in mobile apps](https://github.com/iamIniunam/CheckIn-App)
-- 🌱 I’m currently learning **Advanced Flutter architecture, PHP backend integration, and MySQL optimization**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1o9g4GK4cjXbUP-nmWwt8B53nsDmP7eBz/view)
+<!-- - 🔭 I’m currently working on [Donation App for Charity Organizations](https://github.com/chisom-dev20/Uplift)
+- 🤝 I’m looking for help with [Implementing face verification in mobile apps](https://github.com/iamIniunam/CheckIn-App) -->
+- 🌱 I’m currently learning **Advanced Flutter architecture, Go backend integration, and MySQL optimization**
 - 👯 I’m looking to collaborate on **Flutter mobile app projects and innovative student solutions**
 - ⚡ Fun fact **I think I am funny**<br><br>
 
