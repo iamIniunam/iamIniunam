@@ -34,7 +34,7 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaminiunam&label=Profile%20views&color=0e75b6&style=flat" alt="iaminiunam" /> </p>
 
 - 🌍 I'm currently based in Accra, Ghana
-- 💼 See my portfolio at [iniunamid.vercel.app](https://iniunamid.vercel.app)
+- 💼 See my portfolio at [my portfolio](https://iniunamid.framer.website)
 - 📫 Reach me at iniunamid@gmail.com
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
 - 🌱 I’m currently learning Advanced Flutter architecture, Go backend integration, and MySQL optimization
