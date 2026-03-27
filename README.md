@@ -5,11 +5,11 @@
   <tr>
     <td valign="top" width="60%">
 
-My name is **Iniunam, Idorenyin**<br>
-**********************************<br><br>
-Mobile App Developer | Flutter & Dart Enthusiast | Computer Engineering Student<br>
-***************************************************************************************<br><br>
-I’m a Computer Engineering student at the **Accra Institute of Technology (AIT)** passionate about building clean, functional, and visually appealing **mobile apps**. I specialize in transforming UI/UX designs into flawless, production-ready applications using **Flutter** and **Dart**.
+My name is **Iniunam, Idorenyin** (just call me **ID**)<br>
+***************************************************<br><br>
+Mobile Engineer | Computer Engineering Student<br>
+****************************************************<br><br>
+I’m a student at the **Accra Institute of Technology (AIT)** passionate about building clean, functional, and visually appealing **mobile apps**. I specialize in transforming UI/UX designs into flawless, production-ready applications using **Flutter** and **Dart**.
 
    </td>
    <td valign="top" width="40%" align="center">
@@ -40,7 +40,7 @@ I’m a Computer Engineering student at the **Accra Institute of Technology (AIT
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
 - 🌱 I’m currently learning Advanced Flutter architecture, Go backend integration, and MySQL optimization
 - 👯 I’m looking to collaborate on Flutter mobile app projects and innovative student solutions
-- ⚡ Fun fact I think I am funny<br><br>
+- ⚡ Fun fact I think I am funny... and [Chisom](https://github.com/chisom-dev20) agrees 😎<br><br>
 
 
 <!-- 
