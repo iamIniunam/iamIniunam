@@ -48,9 +48,15 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
 - 🤝 I’m looking for help with [Implementing face verification in mobile apps](https://github.com/iamIniunam/CheckIn-App)
 -->
 ## 🌐 Socials
+<!-- 
 [![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/iaminiunam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/idorenyin-iniunam-125151289)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/iaminiunam)<br/><br/>
+<a href="https://linkedin.com/in/idorenyin-iniunam-125151289"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+-->
+<a href="https://x.com/iaminiunam"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://instagram.com/iaminiunam"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://linkedin.com/in/idorenyin-iniunam-125151289"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a><br/><br/>
 
 ## 💻 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postgresql,figma,git,githubactions,postman,androidstudio,arduino)<br/><br/>
