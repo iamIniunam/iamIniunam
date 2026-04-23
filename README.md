@@ -47,31 +47,25 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
 - 🔭 I’m currently working on [Donation App for Charity Organizations](https://github.com/chisom-dev20/Uplift)
 - 🤝 I’m looking for help with [Implementing face verification in mobile apps](https://github.com/iamIniunam/CheckIn-App)
 -->
+## 🌐 Socials
+[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/iaminiunam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/idorenyin-iniunam-125151289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/iaminiunam)<br/><br/>
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://x.com/iaminiunam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaminiunam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/idorenyin-iniunam-125151289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idorenyin-iniunam-125151289" height="30" width="40" /></a>
-<a href="https://instagram.com/iaminiunam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaminiunam" height="30" width="40" /></a>
-</p><br>
+## 💻 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postgresql,figma,git,githubactions,postman,androidstudio,arduino)<br/><br/>
 
-# 💻 Tech Stack:
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p><br>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iaminIunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=iamIniunam&theme=algolia&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamIniunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamIniunam&theme=algolia)<br/><br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=iaminiunam&theme=algolia&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaminiunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+<!--
+## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamIniunam&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iaminiunam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)<br/><br/>
-<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iaminiunam&limit=5&theme=algolia&combine_all_yearly_contributions=true)
