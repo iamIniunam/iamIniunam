@@ -34,12 +34,12 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaminiunam&label=Profile%20views&color=0e75b6&style=flat" alt="iaminiunam" /> </p>
 
-- 🌍 I'm currently based in Accra, Ghana
-- 💼 See my portfolio at [my portfolio](https://iniunamid.framer.website)
-- 📫 Reach me at iniunamid@gmail.com
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
-- 🌱 I’m currently learning Advanced Flutter architecture, Go backend integration, and MySQL optimization
-- 👯 I’m looking to collaborate on Flutter mobile app projects and innovative student solutions
+- 🌍 Accra, Ghana
+- 💼 Portfolio: [iniunamid.framer.website](https://iniunamid.framer.website)
+- 📫 Email: iniunamid@gmail.com
+- 📄 Experience: [resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
+- 🌱 Currently learning: Advanced Flutter architecture, Go backend integration, and MySQL optimization
+- 👯 Open to collaborating on any interesting project
 - ⚡ Fun fact I think I am funny... and [Chisom](https://github.com/chisom-dev20) agrees 😎<br><br>
 
 
@@ -63,11 +63,10 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
 
 ## 📊 GitHub Stats:
 <!--
-![](https://github-readme-stats.vercel.app/api?username=iaminIunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=iamIniunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 -->
 ![](https://github-readme-streak-stats.herokuapp.com?user=iamIniunam&theme=algolia&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamIniunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamIniunam&theme=algolia)
 
