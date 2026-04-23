@@ -56,9 +56,11 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postgresql,figma,git,githubactions,postman,androidstudio,arduino)<br/><br/>
 
 ## 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=iaminIunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamIniunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com?user=iamIniunam&theme=algolia&hide_border=true)<br/><br/>
+-->
+![](https://github-readme-streak-stats.herokuapp.com?user=iamIniunam&theme=algolia&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamIniunam&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamIniunam&theme=algolia)
