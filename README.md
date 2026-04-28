@@ -31,9 +31,9 @@ I’m a student at the **Accra Institute of Technology (AIT)** passionate about 
   </tr>
 </table>
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaminiunam&label=Profile%20views&color=0e75b6&style=flat" alt="iaminiunam" /> </p>
-
+-->
 - 🌍 Accra, Ghana
 - 💼 Portfolio: [iniunamid.framer.website](https://iniunamid.framer.website)
 - 📫 Email: iniunamid@gmail.com
