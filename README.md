@@ -7,8 +7,8 @@
 
 My name is **Iniunam, Idorenyin** (just call me **ID**)<br>
 ***************************************************<br><br>
-Mobile Engineer | Computer Engineering Student<br>
-****************************************************<br><br>
+Mobile Engineer<br>
+*****************<br><br>
 I’m a student at the **Accra Institute of Technology (AIT)** passionate about building clean, functional, and visually appealing **mobile apps**. I specialize in transforming UI/UX designs into flawless, production-ready applications using **Flutter** and **Dart**.
 
    </td>
