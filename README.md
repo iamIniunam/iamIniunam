@@ -71,6 +71,7 @@ I’m a final-year **Computer Engineering** student at the **Accra Institute of 
 
 ## ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamIniunam&theme=algolia)
 
 ## 📈 Contribution Graph
