@@ -59,7 +59,7 @@ I’m a final-year **Computer Engineering** student at the **Accra Institute of 
 <a href="https://linkedin.com/in/idorenyin-iniunam-125151289"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a><br/><br/>
 
 ## 💻 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postgresql,figma,git,githubactions,postman,androidstudio,arduino)<br/><br/>
+![My Skillss](https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postgresql,figma,git,githubactions,postman,androidstudio,arduino)<br/><br/>
 
 ## 📊 GitHub Stats
 <!--
