@@ -38,9 +38,12 @@ I’m a final-year **Computer Engineering** student at the **Accra Institute of 
 - 💼 Portfolio: [iniunamid.framer.website](https://iniunamid.framer.website)
 - 📫 Email: iniunamid@gmail.com
 - 📄 Experience: [resume](https://docs.google.com/document/d/1QAl7zI2fmoH8mLfNPRXkND4wkdVgMkdR6TFKO1qnMgk/edit?usp=sharing)
+- 👨🏾‍💻 Currenlty open to full-time roles
+- ⚡ Fun fact I think I am funny... and [Chisom](https://github.com/chisom-dev20) agrees 😎<br><br>
+<!--
 - 🌱 Currently learning: Advanced Flutter architecture, Go backend integration, and MySQL optimization
 - 👯 Open to collaborating on any interesting project
-- ⚡ Fun fact I think I am funny... and [Chisom](https://github.com/chisom-dev20) agrees 😎<br><br>
+-->
 
 
 <!-- 
