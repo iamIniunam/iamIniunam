@@ -38,12 +38,12 @@ GPA tracking with realtime sync and offline support, plus an articles feed with 
 - **[Teen-Tech-Outreach-2026](https://github.com/iamIniunam/Teen-Tech-Outreach-2026)**: four hands-on Flutter mini-apps I built for a Teen2Tech session, so teenagers could tweak code and watch Hot Reload update live.
 - **[MobiPay](https://github.com/iamIniunam/mobipay)**: mobile money receipts rendered as email, web, PDF and PNG from one shared Hyper Elements template. Built in React + TypeScript while learning both, with AI assistance.
 
-## 🛠️ How I build
-- **Architecture:** MVVM with Provider and get_it, a Store/Repository split, and sealed `Result` types for error handling
-- **Data:** Firestore streams instead of polling, with offline support
-- **Backend:** Firebase Auth with admin custom claims, and Cloud Functions sending FCM push notifications
-- **Shared code:** one Dart package shared between the mobile app and the Flutter Web admin tool
-- **Quality:** Crashlytics, GitHub Actions CI, and PR-based workflow with version tags
+### 🛠️ How I build
+- **Clear architecture:** MVVM with a strict View / ViewModel / Store / Repository split (Provider, get_it), so the UI never touches data directly
+- **APIs and data:** REST APIs and Firebase, with Firestore streams instead of polling where realtime matters
+- **Typed and explicit:** typed models over raw maps, and sealed `Result` types so network and data errors are handled in the open, not thrown
+- **Reusable code:** shared logic lives in packages that more than one app can use
+- **Built to last:** documented architecture, CI, crash reporting, and a PR-based workflow with version tags
 
 ## 💻 Tech Stack
 
