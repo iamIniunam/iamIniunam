@@ -22,7 +22,7 @@ I'm a Computer Engineering graduate from the Accra Institute of Technology. I tu
 ### Grades: live on Google Play
 GPA tracking with realtime sync and offline support, plus an articles feed with push notifications. A Flutter Web admin tool manages the content.
 
-<a href="YOUR_PLAY_STORE_LINK"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"></a>
+<a href="https://play.google.com/store/apps/details?id=com.iniunamid.scholr"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"></a>
 
 [Read the case study →](https://github.com/iamIniunam/grades-case-study)
 
