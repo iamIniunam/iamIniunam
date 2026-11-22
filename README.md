@@ -36,33 +36,27 @@ GPA tracking with realtime sync and offline support, plus an articles feed with 
 
 ### More work
 - **[Teen-Tech-Outreach-2026](https://github.com/iamIniunam/Teen-Tech-Outreach-2026)**: four hands-on Flutter mini-apps I built for a Teen2Tech session, so teenagers could tweak code and watch Hot Reload update live.
-- **[MobiPay](https://github.com/iamIniunam/mobipay)**: mobile money receipts rendered as email, web, PDF and PNG from one shared Hyper Elements template (React + TypeScript).
+- **[MobiPay](https://github.com/iamIniunam/mobipay)**: mobile money receipts rendered as email, web, PDF and PNG from one shared Hyper Elements template. Built in React + TypeScript while learning both, with AI assistance.
 
 ## 🛠️ How I build
 - **Architecture:** MVVM with Provider and get_it, a Store/Repository split, and sealed `Result` types for error handling
 - **Data:** Firestore streams instead of polling, with offline support
-- **Backend:** Firebase Auth with admin custom claims, and Cloud Functions (TypeScript) sending FCM push notifications
+- **Backend:** Firebase Auth with admin custom claims, and Cloud Functions sending FCM push notifications
 - **Shared code:** one Dart package shared between the mobile app and the Flutter Web admin tool
 - **Quality:** Crashlytics, GitHub Actions CI, and PR-based workflow with version tags
 
 ## 💻 Tech Stack
 
 **Mobile**<br/>
-![Mobile](https://skillicons.dev/icons?i=flutter,dart,androidstudio)
+![Mobile](https://skillicons.dev/icons?i=flutter,dart)
 
 **Backend & Data**<br/>
-![Backend and Data](https://skillicons.dev/icons?i=firebase,postgresql,mysql)
+![Backend and Data](https://skillicons.dev/icons?i=firebase,gcp,postgresql,mysql)
 
-**Web**<br/>
-![Web](https://skillicons.dev/icons?i=react,ts)
-
-**Tools**<br/>
-![Tools](https://skillicons.dev/icons?i=figma,git,githubactions,postman)
-
-**Tinkering**<br/>
-![Tinkering](https://skillicons.dev/icons?i=arduino)
+**Tools & Hardware**<br/>
+![Tools](https://skillicons.dev/icons?i=vscode,git,githubactions,figma,postman,arduino)
 
 ## 📫 Let's talk
 If you're hiring Flutter engineers, I'd love to chat: **iniunamid@gmail.com**
 
-Fun fact: I think I'm funny… and [Chisom](https://github.com/chisom-dev20) agrees 😎
+⚡ Fun fact: I think I'm funny… and [Chisom](https://github.com/chisom-dev20) agrees 😎
